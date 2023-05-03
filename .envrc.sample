@@ -1,3 +1,5 @@
+export TF_VAR_email_address=
+
 # https://dash.cloudflare.com/profile/api-tokens
 export TF_VAR_cloudflare_api_token=
 
